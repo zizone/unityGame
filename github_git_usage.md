@@ -236,3 +236,11 @@ git push를 누르면 됩니다.
 서버에 올라간 것을 확인 가능합니다.
 
 이 파일도 추가해서 한번 올려보겠습니다.
+
+![K-002](http://i.imgur.com/98fGkTx.png)
+
+git add로 github_git_usage.md를 추가한 후, push로 서버에 올렸습니다.
+
+![K-003](http://i.imgur.com/BhcMuTr.png)
+
+git log커맨드로 이력을 볼 수 있습니다.
